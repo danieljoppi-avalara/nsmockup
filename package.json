@@ -36,7 +36,7 @@
     "body-parser": "1.18.2",
     "express": "4.16.0",
     "glob": "6.0.3",
-    "lodash": "4.3.0",
+    "lodash": "4.17.20",
     "lowdb": "0.12.3",
     "minimatch": "3.0.2",
     "moment": "2.19.3",
